@@ -27,25 +27,12 @@
 
     </div>
     <div id="me">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dictum non consectetur a erat nam at lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada. Nunc mattis enim ut tellus elementum sagittis vitae et. Neque laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt. Nec ultrices dui sapien eget mi proin sed. Lobortis feugiat vivamus at augue eget arcu dictum. Lobortis scelerisque fermentum dui faucibus. Nisi porta lorem mollis aliquam ut porttitor leo a diam. Nisi est sit amet facilisis magna etiam tempor orci. Nec feugiat nisl pretium fusce id.
-
-Nunc sed velit dignissim sodales ut eu sem. Feugiat pretium nibh ipsum consequat nisl vel pretium. Pretium nibh ipsum consequat nisl. Habitasse platea dictumst quisque sagittis purus sit amet volutpat. Turpis massa tincidunt dui ut. Pellentesque adipiscing commodo elit at imperdiet dui accumsan sit. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Neque vitae tempus quam pellentesque nec nam aliquam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. Dolor sit amet consectetur adipiscing. Arcu odio ut sem nulla. Tristique nulla aliquet enim tortor at auctor. In nisl nisi scelerisque eu ultrices vitae auctor. Nunc mattis enim ut tellus elementum sagittis vitae.
-
-Morbi tristique senectus et netus. Vulputate sapien nec sagittis aliquam malesuada bibendum. Placerat orci nulla pellentesque dignissim enim sit. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus. Ornare arcu odio ut sem nulla pharetra diam sit. Risus nullam eget felis eget nunc lobortis mattis aliquam faucibus. Risus viverra adipiscing at in. Sodales ut etiam sit amet nisl purus. Metus dictum at tempor commodo ullamcorper a lacus vestibulum sed. Egestas congue quisque egestas diam in arcu cursus. Quis viverra nibh cras pulvinar mattis nunc sed. Sed libero enim sed faucibus. Blandit volutpat maecenas volutpat blandit.
-
-Laoreet non curabitur gravida arcu. Ullamcorper sit amet risus nullam eget felis. Fames ac turpis egestas maecenas pharetra convallis. Massa tincidunt nunc pulvinar sapien. Blandit aliquam etiam erat velit scelerisque in dictum non. A condimentum vitae sapien pellentesque habitant morbi tristique senectus et. Fermentum posuere urna nec tincidunt praesent semper feugiat. Suspendisse faucibus interdum posuere lorem ipsum dolor sit. Nunc sed blandit libero volutpat sed cras ornare. Blandit volutpat maecenas volutpat blandit aliquam etiam erat velit. Nulla pellentesque dignissim enim sit. Massa eget egestas purus viverra accumsan. Faucibus in ornare quam viverra orci sagittis. Elit eget gravida cum sociis natoque penatibus. Ipsum dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Aliquet nec ullamcorper sit amet risus nullam eget felis. Dolor sit amet consectetur adipiscing. Nam libero justo laoreet sit. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada.
-
-Nunc eget lorem dolor sed viverra ipsum nunc. Sodales ut etiam sit amet nisl purus in. Velit scelerisque in dictum non consectetur a. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien. Dui nunc mattis enim ut tellus. In fermentum posuere urna nec. Justo donec enim diam vulputate ut pharetra sit. Leo in vitae turpis massa. Massa tincidunt dui ut ornare lectus sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus. Integer enim neque volutpat ac tincidunt vitae semper quis lectus. Eget lorem dolor sed viverra.</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dictum non consectetur a erat nam at lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada. Nunc mattis enim ut tellus elementum sagittis vitae et. Neque laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt. Nec ultrices dui sapien eget mi proin sed. Lobortis feugiat vivamus at augue eget arcu dictum. Lobortis scelerisque fermentum dui faucibus. Nisi porta lorem mollis aliquam ut porttitor leo a diam. Nisi est sit amet facilisis magna etiam tempor orci. Nec feugiat nisl pretium fusce id.
-
-Nunc sed velit dignissim sodales ut eu sem. Feugiat pretium nibh ipsum consequat nisl vel pretium. Pretium nibh ipsum consequat nisl. Habitasse platea dictumst quisque sagittis purus sit amet volutpat. Turpis massa tincidunt dui ut. Pellentesque adipiscing commodo elit at imperdiet dui accumsan sit. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Neque vitae tempus quam pellentesque nec nam aliquam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. Dolor sit amet consectetur adipiscing. Arcu odio ut sem nulla. Tristique nulla aliquet enim tortor at auctor. In nisl nisi scelerisque eu ultrices vitae auctor. Nunc mattis enim ut tellus elementum sagittis vitae.
-
-Morbi tristique senectus et netus. Vulputate sapien nec sagittis aliquam malesuada bibendum. Placerat orci nulla pellentesque dignissim enim sit. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus. Ornare arcu odio ut sem nulla pharetra diam sit. Risus nullam eget felis eget nunc lobortis mattis aliquam faucibus. Risus viverra adipiscing at in. Sodales ut etiam sit amet nisl purus. Metus dictum at tempor commodo ullamcorper a lacus vestibulum sed. Egestas congue quisque egestas diam in arcu cursus. Quis viverra nibh cras pulvinar mattis nunc sed. Sed libero enim sed faucibus. Blandit volutpat maecenas volutpat blandit.
-
-Laoreet non curabitur gravida arcu. Ullamcorper sit amet risus nullam eget felis. Fames ac turpis egestas maecenas pharetra convallis. Massa tincidunt nunc pulvinar sapien. Blandit aliquam etiam erat velit scelerisque in dictum non. A condimentum vitae sapien pellentesque habitant morbi tristique senectus et. Fermentum posuere urna nec tincidunt praesent semper feugiat. Suspendisse faucibus interdum posuere lorem ipsum dolor sit. Nunc sed blandit libero volutpat sed cras ornare. Blandit volutpat maecenas volutpat blandit aliquam etiam erat velit. Nulla pellentesque dignissim enim sit. Massa eget egestas purus viverra accumsan. Faucibus in ornare quam viverra orci sagittis. Elit eget gravida cum sociis natoque penatibus. Ipsum dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Aliquet nec ullamcorper sit amet risus nullam eget felis. Dolor sit amet consectetur adipiscing. Nam libero justo laoreet sit. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada.
-
-Nunc eget lorem dolor sed viverra ipsum nunc. Sodales ut etiam sit amet nisl purus in. Velit scelerisque in dictum non consectetur a. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien. Dui nunc mattis enim ut tellus. In fermentum posuere urna nec. Justo donec enim diam vulputate ut pharetra sit. Leo in vitae turpis massa. Massa tincidunt dui ut ornare lectus sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus. Integer enim neque volutpat ac tincidunt vitae semper quis lectus. Eget lorem dolor sed viverra.</p>
-
+      <h1>Welcome to JJ Thorley's Website</h1>
+      <p>This website is a work in progress, but I am uploading it early to allow access to the information I plan to put on it.</p>
+      <p>The Resume Page contains a copy of my resume.</p>
+      <p>The Websites Page shows more detailed information on my websites in the left sidebar. Most of the websites contain a footer with a link to the github repository.</p>
+      <p>The Photos Page contains photos of me.</p>
+      <p>For more information feel free to email me at jarod.thorley@gmail.com</p>
     </div>
 
   </div>
@@ -97,6 +84,9 @@ Nunc eget lorem dolor sed viverra ipsum nunc. Sodales ut etiam sit amet nisl pur
     height: 3px;
     background-color: #d8d8d8;
     border: none;
+  }
+  h1 {
+    padding: 10px;
   }
 
 </style>

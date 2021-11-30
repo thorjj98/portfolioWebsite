@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-
+    <p>This page is not yet implemented</p>
   </div>
 </template>
 

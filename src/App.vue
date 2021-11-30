@@ -3,13 +3,13 @@
     <div id="carousel">
       <carousel :loop="true" :perPage="1" :autoplay="true" :autoplayTimeout="4000" :paginationEnabled="false">
         <slide>
-          <img src="./assets/rice1.jpeg"/>
+          <img src="./assets/rice1.jpeg" id="header-image"/>
         </slide>
         <slide>
-          <img src="./assets/rice2.jpeg"/>
+          <img src="./assets/rice2.jpeg" id="header-image"/>
         </slide>
         <slide>
-          <img src="./assets/rice3.jpeg"/>
+          <img src="./assets/rice3.jpeg" id="header-image"/>
         </slide>
       </carousel>
     </div>
@@ -87,7 +87,7 @@ import { Carousel, Slide } from 'vue-carousel';
    height: 10vh;
  }
 
- img {
+ #header-image {
    width: 100%;
    height: 25vh;
    object-fit: cover;
